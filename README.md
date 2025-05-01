@@ -12,7 +12,7 @@ This project demonstrates the migration of data from a traditional MySQL databas
 
 ## 🛠️ Technologies Used
 
-- **Databases**: MySQL, Hive
+- **Databases**: MySQL, Hive, HBase
 - **Big Data Tools**: Hadoop, Cloudera, HDFS
 - **ETL Tools**: BCP, Sqoop
 - **Processing Frameworks**: Apache Spark, Apache Flink
@@ -20,4 +20,5 @@ This project demonstrates the migration of data from a traditional MySQL databas
 
 ---
 
-<pre> ## 📁 Project Structure ``` AviationProject/ ├── _0_ER_Flow_Diagrams_Queries/ ├── _1_DBScripts/ ├── _2_FileSystem/ ├── _3_BCP_Based_ETL/ ├── _4_BatchLayer/ ├── _5_StreamLayer/ └── README.md ``` </pre>
+<pre> ## 📁 Project Structure 
+``` AviationProject/ ├── _0_ER_Flow_Diagrams_Queries/ ├── _1_DBScripts/ ├── _2_FileSystem/ ├── _3_BCP_Based_ETL/ ├── _4_BatchLayer/ ├── _5_StreamLayer/ └── README.md ``` </pre>
